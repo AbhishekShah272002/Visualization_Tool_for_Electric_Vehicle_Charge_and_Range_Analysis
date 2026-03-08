@@ -2,6 +2,7 @@
 
 Live Dashboard Link- https://public.tableau.com/views/Dashboard_17728228933830/ElectricCarsAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+Demo Video Link- https://drive.google.com/file/d/11G3v2pOvzauksNszOUndizS7Zbtf3dbn/view?usp=sharing
 📊 Project Overview
 
 The Interactive EV Visualization Tool provides a data-driven environment for exploring electric vehicle performance and charging networks.
